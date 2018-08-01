@@ -1,0 +1,11 @@
+{
+    "name": "chat-nodejs",
+    "version": "0.1.0",
+    "description": "Exercice openclassrooms - un chat en temps réél avec nodeJS et socket.io",
+    "dependencies": {
+        "ent": "^2.2.0",
+        "express": "^4.16.3",
+        "socket.io": "^2.1.1",
+        "twig": "^1.12.0"
+    }
+}
